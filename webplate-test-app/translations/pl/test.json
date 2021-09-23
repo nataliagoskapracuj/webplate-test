@@ -1,1 +1,7 @@
-{}
+{
+  "hello": "cześć",
+  "introduction": "Nazywam się Natalia",
+  "age": "Nie jestem jeszcze stara",
+  "nationality": "",
+  "hobby": ""
+}
